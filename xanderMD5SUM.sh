@@ -1,3 +1,3 @@
 echo -n 'xandermajek' | md5sum
 
-sleep 10
+sleep 1i
